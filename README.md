@@ -21,3 +21,21 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 - 🌱 Always curious to learn new technologies
 
 ---
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Currently Working On
+
+- 💻 Virtual Study Group Platform
+- 📚 Strengthening MERN Stack Skills
+- 🤖 Learning AI & Machine Learning
+- 🧩 Practicing Data Structures & Algorithms
+
+---
+
+⭐ Thanks for visiting my profile!
