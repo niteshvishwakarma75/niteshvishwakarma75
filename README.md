@@ -14,11 +14,12 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. Information Technology Graduate (2026)
-- 💻 Passionate about Full-Stack Web Development
-- 🚀 Currently building real-world MERN Stack projects
+- 💻 Aspiring Software Engineer focused on Full-Stack Web Development
+- 🚀 Building real-world MERN Stack applications
 - 🤖 Learning Artificial Intelligence & Machine Learning
-- 📚 Improving Data Structures & Algorithms every day
-- 🌱 Always curious to learn new technologies
+- 📚 Practicing Data Structures & Algorithms daily
+- 🌱 Exploring new technologies and open-source development
+- 🎯 Goal: Become an AI Engineer and build impactful software solutions
 
 ---
 ## 🛠️ Tech Stack
