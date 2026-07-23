@@ -77,3 +77,9 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 ---
 
 ⭐ From **Nitesh Vishwakarma**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niteshvishwakarma75&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
