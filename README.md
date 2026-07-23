@@ -67,6 +67,11 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niteshvishwakarma75&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niteshvishwakarma75&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=niteshvishwakarma75&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+</p>
 
 ---
 
