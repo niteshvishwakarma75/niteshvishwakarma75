@@ -62,8 +62,7 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshvishwakarma75&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshvishwakarma75&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=niteshvishwakarma75&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
