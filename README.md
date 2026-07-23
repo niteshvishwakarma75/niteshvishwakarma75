@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/..." width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Nitesh Vishwakarma</h1>
 
 <p align="center">
