@@ -2,6 +2,19 @@
   <img src="https://raw.githubusercontent.com/niteshvishwakarma75/niteshvishwakarma75/main/banner.png" width="100%" alt="Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Nitesh Vishwakarma</h1>
+<p align="center">
+  <a href="https://github.com/niteshvishwakarma75">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Future+AI+Engineer;Learning+AI+%26+Machine+Learning;Always+Learning+New+Things" alt="Typing SVG" />
