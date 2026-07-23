@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/niteshvishwakarma75/niteshvishwakarma75/main/banner.png" width="100%" alt="Banner">
 </p>
+
 <h1 align="center">Hi 👋, I'm Nitesh Vishwakarma</h1>
+
 <p align="center">
   <a href="https://github.com/niteshvishwakarma75">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -20,7 +22,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Future+AI+Engineer;Learning+AI+%26+Machine+Learning;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-
 <h3 align="center">
 Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 </h3>
@@ -38,6 +39,7 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 - 🎯 Goal: Become an AI Engineer and build impactful software solutions
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -55,22 +57,11 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 
 ---
 
-⭐ Thanks for visiting my profile!
-
----
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niteshvishwakarma75&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niteshvishwakarma75&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=niteshvishwakarma75&theme=algolia&no-frame=true&margin-w=15&row=1"/>
 </p>
 
 ---
@@ -83,7 +74,29 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 
 ---
 
-⭐ From **Nitesh Vishwakarma**
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niteshvishwakarma75&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niteshvishwakarma75/niteshvishwakarma75/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+<b>From Nitesh Vishwakarma ❤️</b>
+</p>
 
 ---
 
