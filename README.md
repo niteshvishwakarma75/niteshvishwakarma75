@@ -74,14 +74,6 @@ Aspiring Software Engineer • MERN Stack Developer • Future AI Engineer
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niteshvishwakarma75&theme=algolia&no-frame=true&margin-w=15&row=1"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
